@@ -1,0 +1,4 @@
+function Test(gold){
+  var final_gold = gold * 0.8;
+  return final_gold
+}
